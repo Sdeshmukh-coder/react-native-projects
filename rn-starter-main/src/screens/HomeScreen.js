@@ -4,7 +4,7 @@ import { Text, StyleSheet, Button, View } from "react-native";
 const HomeScreen = ({ navigation }) => {
   return (
     <View>
-      <Text style={styles.text}>Hello This is Darshan Here !</Text>
+      <Text style={styles.text}>Hello This is Shreyans Here !</Text>
     </View>
   );
 };
